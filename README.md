@@ -37,7 +37,6 @@ All backed by **Lambda**, **API Gateway**, **DynamoDB**, **S3**, and **CloudFron
 | Image Storage      | Amazon S3                        |
 | Security           | AWS WAF for CloudFront & API Gateway |
 
-![architecture](docs/architecture-diagram.png) <!-- (Optional: Add your architecture diagram image here) -->
 
 ---
 
